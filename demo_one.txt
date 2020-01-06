@@ -8,3 +8,4 @@ List<Integer> squaresList = numbers.stream().map( i -> i*i).distinct().collect(C
 git ismrxiao修改  
 ismr 继续修改
 
+ismr  edit 修改
